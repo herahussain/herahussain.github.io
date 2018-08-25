@@ -2,10 +2,5 @@
 ---
 
 @import "jekyll-theme-minimal";
-@import 'https://fonts.googleapis.com/css?family=Inconsolata';
 
-font-family: "Inconsolata";
-h1 { font-size: 3em; font-family: "Inconsolata";}
-h2 { font-size: 2em; font-family: "Inconsolata";}
-h3 { font-size: 1.5em; font-family: "Inconsolata";}
-body, * { font-family: "Inconsolata", sans-serif; font-size: 16px; font-weight: 200; }
+body {background-color: #fae8de;}
