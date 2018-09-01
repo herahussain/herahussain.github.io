@@ -3,4 +3,13 @@
 
 @import "jekyll-theme-minimal";
 
-body {background-color: #fae8de;}
+body {background-color: #FAFAFA;}
+
+a {
+    color: ##E73571;
+    text-decoration: none;
+}
+
+::selection {
+  background: #F7E8DF;
+}
